@@ -1,4 +1,5 @@
-### Hi there 👋
+![splash](https://sylwester.herokuapp.com/static/media/splash.d3add68f.jpg)
+
 
 <!--
 **NoahSylwester/NoahSylwester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
