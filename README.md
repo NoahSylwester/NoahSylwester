@@ -1,4 +1,4 @@
-![splash](https://sylwester.herokuapp.com/static/media/splash.d3add68f.jpg)
+[![splash](https://sylwester.herokuapp.com/static/media/splash.d3add68f.jpg)](https://sylwester.herokuapp.com/)
 
 
 <!--
