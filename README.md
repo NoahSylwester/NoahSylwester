@@ -1,5 +1,5 @@
-> # `NOAH SYLWESTER`
-👇 click the image for my portfolio
+# `NOAH SYLWESTER`
+> 👇 click the image for my portfolio
 [![splash](https://sylwester.herokuapp.com/static/media/splash.d3add68f.jpg)](https://sylwester.herokuapp.com/)
 
 
