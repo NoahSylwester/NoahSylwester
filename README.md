@@ -1,7 +1,10 @@
 # `NOAH SYLWESTER`
 #### 👇 click the image for my portfolio
-[![splash](https://sylwester.herokuapp.com/static/media/splash.d3add68f.jpg)](https://sylwester.herokuapp.com/)
-
+<!-- [![splash](https://sylwester.herokuapp.com/static/media/splash.d3add68f.jpg)](https://sylwester.herokuapp.com/) -->
+<img 
+    src="https://sylwester.herokuapp.com/static/media/splash.d3add68f.jpg"
+    style="width: 50%; margin: auto; object-fit: cover;"
+    />
 
 <!--
 **NoahSylwester/NoahSylwester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
