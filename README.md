@@ -1,5 +1,6 @@
-[![splash](https://github.com/NoahSylwester/NoahSylwester/blob/master/banner.jpg?raw=true)](https://sylwester.herokuapp.com/)
 # `NOAH SYLWESTER`
+[![splash](https://github.com/NoahSylwester/NoahSylwester/blob/master/banner.jpg?raw=true)](https://sylwester.herokuapp.com/)
+
 currently working on some mobile app projects...
 <!-- #### 👇 click the image for my portfolio -->
 
